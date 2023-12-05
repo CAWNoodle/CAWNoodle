@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CAWNoodle
-- 👀 I’m interested in Embeddded Systems, Control Theory, Game Design, High-fidelity Physics & Chem Simulation, Robotics, Machine Learning, Augmented Reality, and Web Development.
-- 🌱 I’m currently learning Fuzzy Logic Control with gradient-based optimization.
-- 💞️ I’m looking to collaborate on Large experimental data sets like those from the LHC at CERN, or the GAIA Observatory from the ESA.
+- 👀 I’m interested in Cosmology, Embeddded Systems, Control Theory, Game Design, High-fidelity Physics & Chem Simulation, Robotics, Machine Learning, Augmented Reality, and Web Development.
+- 🌱 I’m currently learning studying optimization algorithms and their application to scientific data analysis.
+- 💞️ I’m looking to collaborate on Large experimental data sets like those from Ground-based or Space-based telescopes (e.g. Simons Observatory, James Webb, Euclid, etc.).
 - 📫 How to reach me you can email me at dlee@cogandwire.com
 
 <!---
